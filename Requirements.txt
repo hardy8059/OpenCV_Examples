@@ -1,0 +1,6 @@
+###############Softwares Required###########################
+Python 2.7
+Numpy
+Matplotlib
+
+#You can Install these by refering to downloads folder or first install Pip and then using Pip install the above
