@@ -1,0 +1,20 @@
+####Download Links####
+
+1)Matplotlib:
+  https://excellmedia.dl.sourceforge.net/project/matplotlib/matplotlib/matplotlib-1.3.0/matplotlib-1.3.0.win32-py2.7.exe
+  
+2)Numpy:
+  http://www.lfd.uci.edu/~gohlke/pythonlibs/vu4hx7yr/numpy-1.11.3+mkl-cp27-cp27m-win32.whl
+  
+3)OpenCV:
+  https://nchc.dl.sourceforge.net/project/opencvlibrary/opencv-win/3.2.0/opencv-3.2.0-vc14.exe
+  
+4)Python 2.7 :
+  http://dl1.filehippo.com/aa00150e319c4d548693a9b4e24eca78/python-2.7.9.msi?ttl=1499030921&token=4d605fb7afe414b8cfe5737442090403
+
+5)Scipy(OPTIONAL):
+  http://www.lfd.uci.edu/~gohlke/pythonlibs/vu4hx7yr/scipy-0.19.1-cp27-cp27m-win32.whl
+  
+ // NOTE//
+ .whl Files are run using wheel.
+ So before running .whl files ,install wheel on your system
